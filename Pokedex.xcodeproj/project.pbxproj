@@ -10,7 +10,6 @@
 		03CA42C9207152A000A298D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03CA42C8207152A000A298D0 /* AppDelegate.swift */; };
 		03CA42CB207152A000A298D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03CA42CA207152A000A298D0 /* ViewController.swift */; };
 		03CA42CE207152A000A298D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03CA42CC207152A000A298D0 /* Main.storyboard */; };
-		03CA42D0207152A200A298D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03CA42CF207152A200A298D0 /* Assets.xcassets */; };
 		03CA42D3207152A200A298D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03CA42D1207152A200A298D0 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -19,7 +18,6 @@
 		03CA42C8207152A000A298D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		03CA42CA207152A000A298D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		03CA42CD207152A000A298D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		03CA42CF207152A200A298D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03CA42D2207152A200A298D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03CA42D4207152A200A298D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,7 +55,6 @@
 				03CA42C8207152A000A298D0 /* AppDelegate.swift */,
 				03CA42CA207152A000A298D0 /* ViewController.swift */,
 				03CA42CC207152A000A298D0 /* Main.storyboard */,
-				03CA42CF207152A200A298D0 /* Assets.xcassets */,
 				03CA42D1207152A200A298D0 /* LaunchScreen.storyboard */,
 				03CA42D4207152A200A298D0 /* Info.plist */,
 			);
@@ -123,7 +120,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				03CA42D3207152A200A298D0 /* LaunchScreen.storyboard in Resources */,
-				03CA42D0207152A200A298D0 /* Assets.xcassets in Resources */,
 				03CA42CE207152A000A298D0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
